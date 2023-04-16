@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Nehru Collage Students</string>
+    <string name="cadmin">Collage App Admin</string>
+
+    <string name="bold" translatable="false" tools:ignore="ReferenceType">@font/lorabold</string>
+    <string name="medium" translatable="false" tools:ignore="ReferenceType">@font/loramedium</string>
+    <string name="regular" translatable="false" tools:ignore="ReferenceType">@font/loraregular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+    <string name="about_collage">Government Nehru College, Agar Madhya Pradesh is a recognised institute / college. Status: Govt. Government Nehru College, Agar Madhya Pradesh is also known as Nehru Government PG College Agar Malwa. Government Nehru College, Agar Madhya Pradesh was established on / in 1970. Principal of Government Nehru College, Agar Madhya Pradesh is R.N. SAKSENA (Mobile 9425102235).\nGovernment Nehru College is situated in Agar of Madhya Pradesh state (Province) in India. This data has been provided by www.punjabcolleges.com. Mobile No(s) of concerned persons at Government Nehru College, Agar Madhya Pradesh are 9009699490.\nEmail ID(s) is Government Nehru College Agar Madhya Pradesh.\nWebsite of Government Nehru College, Agar Madhya Pradesh is http://www.mpcolleges.nic.in/ngpgcagar/.\nContact Details of Government Nehru College, Agar Madhya Pradesh are : Telephone: +91-7362-258033.\nCOURSES\nGovernment Nehru College, Agar Madhya Pradesh runs course(s) in Degree, Law stream(s). LLB.\nSummary: Government Nehru College, Agar Madhya Pradesh website, mobile, contact address and approval / recognition details.</string>
+    <string name="address">CONTACT\n\nGovernment Nehru College, Agar, Madhya Pradesh\nAddress: Plot / Street / Area\nMalwa Chhawni, Agar-Malwa\nAgar (District Shajapur)\nMadhya Pradesh, India - 465441</string>
+
+    <string name="start" translatable="false">Start</string>
+    <string name="close" translatable="false">Close</string>
+
+    <string-array name="theme">
+        <item>System Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+    </string-array>
+
+</resources>

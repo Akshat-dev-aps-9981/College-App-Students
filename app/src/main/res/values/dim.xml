@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">@dimen/_16mdp</dimen>
+    <dimen name="text_size">@dimen/_18font_mdp</dimen>
+    <dimen name="text_size2">@dimen/_19font_mdp</dimen>
+    <dimen name="text_size0">@dimen/_17font_mdp</dimen>
+    <dimen name="text_size1">@dimen/_16font_mdp</dimen>
+    <dimen name="text_size01">@dimen/_14font_mdp</dimen>
+
+    <dimen name="title_size">@dimen/_22font_mdp</dimen>
+    <dimen name="title_size2">@dimen/_20font_mdp</dimen>
+
+</resources>
